@@ -10,13 +10,13 @@ Our example model geometry is taken from Milton E. Harr’s [*Groundwater and Se
 
 A summary of the geometry and key parameters is presented below: 
 
-*The graph shows a cross-section of a dam*
-
 ![cross-section-dam](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-1-original-sss-validation-model.png)
 
-*A table showing silt sand permeability*
+*The graph shows a cross-section of a dam*
 
 ![parameters](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/smaller-sand-table.png)
+
+*A table showing silt sand permeability*
 
 ## What is it?
 
@@ -50,30 +50,29 @@ The computed analytical solution for this problem is a match like-for-like with 
 
 These images below show the computed analytical solution plotted on top of the Gofer and Oasys Slope and Plaxis output.
 
-*Analysis results in Gofer*
-
 ![gofer-case](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-2-Gofer-case-sss.png)
 
-*Analysis results in Oasys Slope*
+*Analysis results in Gofer*
 
 ![slope-case](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-3-Slope-case-sss.png)
 
-*Analysis results in Plaxis*
+*Analysis results in Oasys Slope*
 
 ![plaxis-case](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-4-Plaxis-case-sss.png)
+
+*Analysis results in Plaxis*
 
 ## How it compares: Oasys Slope and Plaxis
 
 The porewater pressure results attained from Oasys Slope and Plaxis were a match for both the analytical solution and Gofer. 
 
-*Gofer and Oasys Slope comparison*
-
 ![gofer-slope](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-5-Gofer-slope-sss.png)
 
-*Gofer and Plaxis comparison*
+*Gofer and Oasys Slope comparison*
 
 ![gofer-plaxis](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/validationImages/Smaller-slide-6-Gofer-plaxis-sss.png)
 
+*Gofer and Plaxis comparison*
 
 
 
